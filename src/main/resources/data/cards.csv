@@ -1,0 +1,31 @@
+id, issuer, name, type, apr, cashback, lowinterest, reward, url
+1, Halifax, Basic Card, Visa, 0.13, false, false, false, http://www.halifax.com/card/1
+2, Halifax, Basic Card, Mastercard, 0.09, false, false, true, http://www.halifax.com/card/2
+3, Halifax, Express Card, Visa, 0.12, true, true, false, http://www.halifax.com/card/3
+4, Halifax, Express Card, Mastercard, 0.24, false, false, true, http://www.halifax.com/card/4
+5, Halifax, Platinum, Visa, 0.32, false, false, true, http://www.halifax.com/card/5
+6, Halifax, Platinum, Mastercard, 0.23, false, true, true, http://www.halifax.com/card/6
+7, MBNA, Basic Card, Visa, 0.29, false, true, true, http://www.mbna.com/card/7
+8, MBNA, Basic Card, Mastercard, 0.05, false, false, false, http://www.mbna.com/card/8
+9, MBNA, Express Card, Visa, 0.14, false, false, false, http://www.mbna.com/card/9
+10, MBNA, Express Card, Mastercard, 0.38, false, true, true, http://www.mbna.com/card/10
+11, MBNA, Platinum, Visa, 0.28, false, false, false, http://www.mbna.com/card/11
+12, MBNA, Platinum, Mastercard, 0.17, true, true, false, http://www.mbna.com/card/12
+13, Tesco, Basic Card, Visa, 0.22, false, true, true, http://www.tesco.com/card/13
+14, Tesco, Basic Card, Mastercard, 0.23, false, true, true, http://www.tesco.com/card/14
+15, Tesco, Express Card, Visa, 0.37, true, true, false, http://www.tesco.com/card/15
+16, Tesco, Express Card, Mastercard, 0.35, false, false, true, http://www.tesco.com/card/16
+17, Tesco, Platinum, Visa, 0.31, true, true, true, http://www.tesco.com/card/17
+18, Tesco, Platinum, Mastercard, 0.27, true, false, true, http://www.tesco.com/card/18
+19, Lloyds, Basic Card, Visa, 0.20, false, true, true, http://www.lloyds.com/card/19
+20, Lloyds, Basic Card, Mastercard, 0.16, false, false, true, http://www.lloyds.com/card/20
+21, Lloyds, Express Card, Visa, 0.13, true, false, true, http://www.lloyds.com/card/21
+22, Lloyds, Express Card, Mastercard, 0.27, true, true, false, http://www.lloyds.com/card/22
+23, Lloyds, Platinum, Visa, 0.30, true, false, false, http://www.lloyds.com/card/23
+24, Lloyds, Platinum, Mastercard, 0.35, false, false, false, http://www.lloyds.com/card/24
+25, Amex, Basic Card, American Express, 0.17, false, false, true, http://www.amex.com/card/25
+26, Amex, Basic Card, American Express, 0.06, true, true, true, http://www.amex.com/card/26
+27, Amex, Express Card, American Express, 0.34, true, false, true, http://www.amex.com/card/27
+28, Amex, Express Card, American Express, 0.24, false, true, true, http://www.amex.com/card/28
+29, Amex, Platinum, American Express, 0.35, false, true, true, http://www.amex.com/card/29
+30, Amex, Platinum, American Express, 0.13, false, false, false, http://www.amex.com/card/30
